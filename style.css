@@ -1,0 +1,35 @@
+body{
+  width: 80%;
+}
+
+
+.home {
+    padding-left: 10vh;
+    padding-top: 3vh;
+    font-size: 23px;
+}
+
+#welcome {
+    text-align: right;
+    padding-right: 7.75vw;
+}
+
+
+.row{
+  display:flex;
+  justify-content: space-between;
+
+}
+img{
+  width: 135px;
+
+}
+#t-l{
+  text-align: center;
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+
+}
